@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		069393A41F9E858400B70D3C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 069393A31F9E858300B70D3C /* README.md */; };
 		06DF65011F9A281100379637 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DF65001F9A281100379637 /* AppDelegate.swift */; };
 		06DF65031F9A281100379637 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DF65021F9A281100379637 /* ViewController.swift */; };
 		06DF65081F9A281100379637 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06DF65071F9A281100379637 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		069393A31F9E858300B70D3C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		06DF64FD1F9A281100379637 /* FABDrawnView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FABDrawnView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06DF65001F9A281100379637 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06DF65021F9A281100379637 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 		06DF64FF1F9A281100379637 /* FABDrawnView */ = {
 			isa = PBXGroup;
 			children = (
+				069393A31F9E858300B70D3C /* README.md */,
 				06DF65001F9A281100379637 /* AppDelegate.swift */,
 				06DF65021F9A281100379637 /* ViewController.swift */,
 				06DF65071F9A281100379637 /* Assets.xcassets */,
@@ -134,6 +137,7 @@
 			files = (
 				06DF650B1F9A281100379637 /* LaunchScreen.storyboard in Resources */,
 				06DF65151F9A28CD00379637 /* FABDrawnView.xib in Resources */,
+				069393A41F9E858400B70D3C /* README.md in Resources */,
 				06DF65081F9A281100379637 /* Assets.xcassets in Resources */,
 				06DF651D1F9A332C00379637 /* Main.storyboard in Resources */,
 			);
